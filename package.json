@@ -59,7 +59,7 @@
     "url": "git+https://github.com/gauravtiwari/webpack_on_rails.git"
   },
   "keywords": [
-    "browserify",
+    "webpack",
     "react",
     "rails",
     "npm"

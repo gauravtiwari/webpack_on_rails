@@ -17,7 +17,6 @@
 .byebug_history
 node_modules/*
 npm_debug*
-browserify-cache
 public/assets/*
 app/assets/webpack/*
 npm-debug*
