@@ -1,5 +1,5 @@
 # Webpack on Rails example application (with server rendering)
-Minimal and Simple setup to use webpack with Rails asset pipeline for React and ES6.
+Minimal and simple setup to use webpack with Rails asset pipeline for React and ES6. We are using react-rails gem to render react components, but using webpack compiled code. Checkout the webpack config files and `assets/webpack` folder
 
 Check out the `app/assets/javascripts` folder
 ```bash
