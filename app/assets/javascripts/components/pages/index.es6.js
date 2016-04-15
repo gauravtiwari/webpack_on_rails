@@ -38,7 +38,7 @@ class IndexComponent extends React.Component {
 	}
 
 	render() {
-		return <h2>Echo: {this.state.message}</h2>;
+		return <h2>Echo Message: {this.state.message}</h2>;
 	}
 }
 

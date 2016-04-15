@@ -4,7 +4,7 @@ class ShowComponent extends React.Component {
 		super(props);
 	}
 	render() {
-		return <h2>Echo: Ohay show page</h2>;
+		return <h2>Echo Message: Ohay show page</h2>;
 	}
 }
 module.exports = ShowComponent;

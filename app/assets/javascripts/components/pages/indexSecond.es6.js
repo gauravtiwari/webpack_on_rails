@@ -4,7 +4,7 @@ class IndexSecondComponent extends React.Component {
 		super(props);
 	}
 	render() {
-		return <h2>Echo: {this.props.message}</h2>;
+		return <h2>Echo Message: {this.props.message}</h2>;
 	}
 }
 
